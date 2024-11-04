@@ -1,0 +1,13 @@
+# Virtual environment
+myenv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dependencies
+pip/_vendor/
