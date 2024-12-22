@@ -1,4 +1,4 @@
-# . It's a crucial skill in machine learning. Here's how we can infer overfitting from the results:
+# It's a crucial skill in machine learning. Here's how we can infer overfitting from the results:
 
 Perfect training accuracy (1.0000) vs. lower validation accuracy (0.3500): The model performs flawlessly on training data but much worse on unseen data.
 
